@@ -49,10 +49,10 @@ The minimal system requirements are:
 On our test machine, a server with two 6-core Intel Xeon processors clocked at 2.8 Ghz, the observed runtimes are:
 
 	* For demo 1: 
-		* with 24 threads:	4m 13s 
+		* with 24 threads:	1m 19s 
 	
 	* For demo 2: 
-		* with 24 threads:	5m 15s 
+		* with 24 threads:	2m 06s 
 
 
 ### NA12878-chr22-10pct 
@@ -72,10 +72,10 @@ The minimal system requirements are:
 On our test machine, a server with two 6-core Intel Xeon processors clocked at 2.8 Ghz, the observed runtimes are:
 
 	* For demo 1: 
-		* with 24 threads:	   25s 
+		* with 24 threads:	   9s 
 		
 	* For demo 2:
-		* with 24 threads:	   31s 
+		* with 24 threads:	   13s 
 
 # Running the demos
 
